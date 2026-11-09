@@ -1,0 +1,10 @@
+# STM32CubeIDE build artifacts (keep lab3.hex for Proteus simulation)
+lab3/Debug/*
+!lab3/Debug/lab3.hex
+lab3/Release/*
+
+# Proteus temporary / backup files
+*.pdsbak
+*.DBK
+*.hex.asm
+
